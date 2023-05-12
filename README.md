@@ -14,11 +14,33 @@ Complete the following steps:
 
 3. Research the FinTech case study you chose. Provide answers to the following:
 
-    * What is the background of your company? What do they do? Who are their competitors?
+    * What is the background of your company? What do they do? 
+     
+            Borrowell is a Canadian FinTech company aimed to help Canadians to have healthy finances. This company created Canada’s first AI-powered Credit Coach,Molly, that shares personalized financial advice intended to help customers to understand and improve their credit and financial lives. Borrowell also developeda recommendation engine that d the credit profile of a customer to makepersonalized commercial product recommendations.
+    
+    * Who are their competitors?
+            Credit Karma,Mogo,Loans Canada,LendingArch,Borrowell's parent company, Equifax Canada,Marble Financial,LoanAway
 
+
+
+    
     * How does this company use technology to their advantage? Why are they considered a FinTech company?
+        1. online platform
+        2. Credit Scoring Algorithm
+        3. Robo-Adviser
+        4. 
 
     * Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
+        1. By providing the newest A New free weeekly credit score and report monitoring. 
+        2.  One of the best level banking encryption with 256 bit keys. 
+        3. Free credit improvement tip and education
+
+        Pros of Borrowell 
+            Attractive website and mobile app. Free access to credit scores and reports from Equifax Canada. Debt-free options to help Canadians improve their credit profile.
+        Cons of Borrowell
+            1. Credit scores and reports are limited to Equifax Canada — just one of two major credit bureaus in the country.
+            2. Charges fees for Rent Advantage and Credit Builder products.
+            3. Using Borrowell’s free services means opening yourself up to marketing communications suggesting their other financial products.
 
     * What is the prognosis for this company? Where do they expect to be in the future?
 
